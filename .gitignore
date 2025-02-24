@@ -1,0 +1,6 @@
+# Ignorer le dossier .terraform
+.terraform
+
+# Ignorer les fichiers suivants :
+terraform.tfstate
+.terraform.lock.hcl
